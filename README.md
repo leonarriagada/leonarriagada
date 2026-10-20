@@ -1,6 +1,6 @@
-# Leonardo Arriagada Ramos
+# Leon Von Larkether
 ### Full-Stack Software Engineer & Application Architect
-**Concepción, Chile** • [LinkedIn](https://linkedin.com/in/leonarriagada) • [Portfolio / Agency](https://larketing.cl) • [Email](mailto:leonarriagada@gmail.com)
+**Concepción, Chile** • [LinkedIn](https://linkedin.com/in/leonarriagada) • [Company Website](https://larkether.cl) • [Email](mailto:leonvonlarkether@gmail.com)
 
 ```text
 Specializing in mission-critical web applications, high-concurrency database architecture, 
@@ -87,7 +87,8 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ## 📬 Contact & Links
 
+- **GitHub**: [github.com/leonvonlarkether](https://github.com/leonvonlarkether)
 - **LinkedIn**: [linkedin.com/in/leonarriagada](https://linkedin.com/in/leonarriagada)
-- **Email**: [leonarriagada@gmail.com](mailto:leonarriagada@gmail.com)
-- **Consulting Agency**: [larketing.cl](https://larketing.cl)
+- **Email**: [leonvonlarkether@gmail.com](mailto:leonvonlarkether@gmail.com)
+- **Company**: [larkether.cl](https://larkether.cl)
 - **Location**: Concepción, Biobío Region, Chile
