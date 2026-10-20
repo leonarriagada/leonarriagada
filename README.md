@@ -28,6 +28,7 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ### 1. SIGESPAI — Enterprise ERP & Financial Management Platform
 * **Domain**: Heavy Equipment, Fleet Logistics & Industrial Services
+* **Live System**: [sigespai.paicavi.cl](https://sigespai.paicavi.cl)
 * **Status**: `🔒 Private Production Repository`
 * **Stack**: Next.js 16 • React 19 • Supabase (PostgreSQL) • PL/pgSQL • Vitest • Playwright
 * **Architectural Highlights**:
@@ -39,6 +40,7 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ### 2. NODO OS — Agency Operating System & Meta Marketing API Connector
 * **Domain**: Marketing Automation, Project Governance & Digital Agency Operations
+* **Live System**: [nodomedia.cl](https://nodomedia.cl)
 * **Status**: `🔒 Private Production Repository`
 * **Stack**: Next.js 16 • TypeScript • Meta Marketing API v21.0 • Supabase • AES-256-GCM
 * **Architectural Highlights**:
@@ -51,6 +53,7 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ### 3. Solventia — Investment Funnels & Server-Side Conversions Pipeline
 * **Domain**: Real Estate Private Investment & FinTech
+* **Live System**: [solventia.cl](https://solventia.cl)
 * **Status**: `🔒 Private Production Repository`
 * **Stack**: Next.js • Node.js • Meta Conversions API (CAPI) • Supabase
 * **Architectural Highlights**:
@@ -60,9 +63,10 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ---
 
-### 4. Modular E-Commerce Monolith — Retail & Chilean Logistics
+### 4. Modular E-Commerce Monolith & Retail Systems
 * **Domain**: Specialized Retail & Direct-to-Consumer
-* **Status**: `🔒 Private Production Repository`
+* **Live Systems**: [sarasquetaoutdoor.cl](https://sarasquetaoutdoor.cl) • [cefer.cl](https://cefer.cl)
+* **Status**: `🔒 Private Production Repositories`
 * **Stack**: Next.js 16 • PostgreSQL • Flow.cl (Webpay Plus) • Blue Express API • 39 Vitest Suites
 * **Architectural Highlights**:
   - **Modular Domain Architecture**: Isolated domain modules for catalog management, shopping cart state, and order lifecycle backed by Supabase RLS.
@@ -71,9 +75,22 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ---
 
-### 5. Healthcare Diagnostic & Specialized Platforms
-* **Healthcare Diagnostic Centers**: Scalable web portals for medical resonance facilities (*Resonancia Regional Concepción & Talcahuano*), optimizing appointment booking and clinical trust signals.
-* **SaaS & Fleet Operations**: Logistics systems (*Grúas Paicaví*), capital investment portfolios (*Nordsee Capital*), and enterprise e-learning solutions (Moodle & SENCE regulatory compliance).
+### 5. Healthcare Diagnostic Imaging & Clinical Portals
+* **Domain**: Medical Diagnostics & Patient Scheduling
+* **Live Systems**: [resonanciamregional.cl](https://resonanciamregional.cl) (Concepción) • [resonanciamtalcahuano.cl](https://resonanciamtalcahuano.cl) (Talcahuano) • [terapiaenconce.cl](https://terapiaenconce.cl)
+* **Status**: `🔒 Private Production Repositories`
+* **Stack**: Next.js 16 • React 19 • TypeScript • Tailwind CSS • SEO & Web Performance
+* **Architectural Highlights**:
+  - High-performance clinical portals engineered for patient trust, accessible online appointment scheduling, and strict compliance with medical diagnostic data privacy.
+
+---
+
+### 6. Industrial, Logistics & Enterprise Solutions
+* **Fleet & Industrial Services**: [paicavi.cl](https://paicavi.cl) (Empresas Paicaví / Grúas)
+* **Industrial Technology**: [stoltech.cl](https://stoltech.cl)
+* **Private Equity & Assets**: [nordseecapital.com](https://nordseecapital.com)
+* **Corporate Training & E-Learning**: [dygcapacitaciones.cl](https://dygcapacitaciones.cl) (Moodle & SENCE regulatory frameworks)
+* **Tourism & Hospitality**: [elmiradorderioclaro.cl](https://elmiradorderioclaro.cl)
 
 ---
 
