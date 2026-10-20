@@ -85,12 +85,14 @@ and enterprise API integrations with Next.js 16 (App Router), React 19, TypeScri
 
 ---
 
-### 6. Industrial, Logistics & Enterprise Solutions
-* **Fleet & Industrial Services**: [paicavi.cl](https://paicavi.cl) (Empresas Paicaví / Grúas)
-* **Industrial Technology**: [stoltech.cl](https://stoltech.cl)
-* **Private Equity & Assets**: [nordseecapital.com](https://nordseecapital.com)
+### 6. Industrial, Education & Enterprise Solutions
+* **Fleet & Industrial Logistics**: [paicavi.cl](https://paicavi.cl) (Empresas Paicaví / Grúas)
+* **Industrial Technology & Automation**: [stoltech.cl](https://stoltech.cl)
+* **Early Childhood Education**: [salacunayjardinmontessori.cl](https://www.salacunayjardinmontessori.cl)
 * **Corporate Training & E-Learning**: [dygcapacitaciones.cl](https://dygcapacitaciones.cl) (Moodle & SENCE regulatory frameworks)
-* **Tourism & Hospitality**: [elmiradorderioclaro.cl](https://elmiradorderioclaro.cl)
+* **Private Equity & Assets**: [nordseecapital.com](https://nordseecapital.com)
+* **Tourism & Hospitality**: [elmiradorderioclaro.cl](https://elmiradorderioclaro.cl) • `espaciorioccp.cl` *(staging / pending launch)*
+* **Circular Economy & Bio-solutions**: `biofenix.cl` *(domain maintenance)*
 
 ---
 
